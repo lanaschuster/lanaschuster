@@ -1,8 +1,8 @@
 - 👋 Olá, me chamo Lana;
 - 👀 Me interesso por diversos assuntos dentro da computação;
 - ⭐ Mando muito bem no front-end, principalmente com o Vue.js;
-- 🌱 Atualmente estou procurando aprender sobre testes automatizados e arquitetura de software;
-- 💞️ Estou à procura de projetos sociais onde eu possa contribuir como desenvolvedora;
+- 🌱 Atualmente estudando sobre testes automatizados e arquitetura de software;
+- 🧠 Dedicada ao desenvolvimento do [Vagamente](http://vagamente.com.br/);
 - 📫 Fique a vontade para falar comigo através do meu Linkedin ou e-mail:
 - - [Linkedin](https://www.linkedin.com/in/lana-s-48b896195/)
 - - E-mail: lanaschuster1@gmail.com
