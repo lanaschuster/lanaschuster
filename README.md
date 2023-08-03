@@ -2,7 +2,4 @@
 - 👀 Me interesso por diversos assuntos dentro da computação;
 - ⭐ Mando muito bem no front-end, principalmente com o Vue.js;
 - 🌱 Atualmente estudando sobre testes automatizados e arquitetura de software;
-- 🧠 Dedicada ao desenvolvimento do [Vagamente](http://vagamente.com.br/);
-- 📫 Fique a vontade para falar comigo através do meu Linkedin ou e-mail:
-- - [Linkedin](https://www.linkedin.com/in/lana-s-48b896195/)
-- - E-mail: lanaschuster1@gmail.com
+- 🧠 Dedicada ao desenvolvimento do [Vagamente](http://vagamente.com.br/).
